@@ -45,6 +45,6 @@
 ### Week 7:
 - *Watch the Video:* [ML4M](https://www.youtube.com/watch?v=CjKGibEc-F0)
 - *Go through the Slides:* [Activity Setup](https://docs.google.com/document/d/1cQAASiwEHIv41tbnsuQrHGs9JxXb0W0XM2aX85VwoOI/edit?tab=t.0#heading=h.pdxhlohdnvhu)
-- *Work through the 'ML4M - Image Data Activities.ipynb': [Image Data Activity](https://drive.google.com/drive/folders/1tm2h-Rn19h2HYXt16ToEKLjZSoSeGUE3?usp=sharing)
+- *Work through the 'ML4M - Image Data Activities.ipynb':* [Image Data Activity](https://drive.google.com/drive/folders/1tm2h-Rn19h2HYXt16ToEKLjZSoSeGUE3?usp=sharing)
 
   
